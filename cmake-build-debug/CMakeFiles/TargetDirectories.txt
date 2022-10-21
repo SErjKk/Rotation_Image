@@ -1,0 +1,3 @@
+C:/Users/serjk/SERJK/C projects/RatationLab_1/cmake-build-debug/CMakeFiles/RotationLab_1.dir
+C:/Users/serjk/SERJK/C projects/RatationLab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/serjk/SERJK/C projects/RatationLab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
